@@ -27,6 +27,7 @@ def main():
     l = [1,2,3]
     print l
     print 'new thing i added'
+    print 'next new thing'
 
 if __name__ == "__main__":
     sys.exit(main())
